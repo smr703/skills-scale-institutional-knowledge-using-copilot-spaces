@@ -35,9 +35,18 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
   - ID, Description, Impact, Probability, Owner, Mitigation
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
 
+## Dependency Intake Checklist
+Use this checklist during kickoff and sprint planning to surface external dependencies early:
+- [ ] Identify each cross-team or external dependency tied to the planned work
+- [ ] Confirm the dependency owner and the primary point of contact
+- [ ] Record needed-by dates, milestone impact, and current status
+- [ ] Document integration assumptions, risks, and fallback options
+- [ ] Agree on the escalation path if the dependency slips or blocks delivery
+
 ## Planning Checklist
 - [ ] Project kickoff held
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
+- [ ] Dependency intake checklist reviewed for kickoff and sprint planning
 - [ ] Initial test plan / QA approach drafted
