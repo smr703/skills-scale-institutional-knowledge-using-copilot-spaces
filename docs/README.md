@@ -14,6 +14,22 @@ OctoAcme follows a structured, iterative project management approach guided by t
 
 Projects move through five lifecycle stages — **Initiation → Planning → Execution → Release → Retrospective** — with defined roles, artifacts, and communication cadences at each stage.
 
+## Process Lifecycle
+
+OctoAcme projects follow a structured lifecycle. Here is a concise summary of each stage:
+
+1. **Initiation** — Define the problem statement, identify stakeholders, create a project charter, and establish a high-level timeline. The goal is to align everyone on the "why" before any work begins.
+
+2. **Planning** — Break the initiative into shippable increments, build a prioritised backlog with acceptance criteria, map dependencies and risks, and produce a release plan with clear milestones.
+
+3. **Execution & Tracking** — Run iterative sprints with daily standups, track progress on the project board, manage scope changes through a change-control process, and keep stakeholders informed via regular demos and delivery syncs.
+
+4. **Risk Management & Communication** — Continuously identify, assess, and mitigate risks using a Risk Register; follow agreed escalation paths; and maintain the communication cadences (standups, weekly syncs, stakeholder updates) defined during planning.
+
+5. **Release & Deployment** — Prepare release notes, complete pre-deployment checklists, deploy incrementally, verify functionality in production, and announce the release to relevant stakeholders.
+
+6. **Retrospective & Continuous Improvement** — After each release or milestone, facilitate a retrospective to capture what went well, what could improve, and actionable next steps; feed learnings back into future planning cycles.
+
 ## Process Documents
 
 | Document | Description |
